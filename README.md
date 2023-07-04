@@ -9,12 +9,12 @@
 
 ## Design:
 * Desktop:
-<img height="500em" src="./src/design/desktop-design1.png" alt="Projeto Formulario - Versão Desktop">
-<img height="500em" src="./src/design/desktop-design2.png" alt="Projeto Formulario - Versão Desktop">
-<img height="500em" src="./src/design/desktop-design3.png" alt="Projeto Formulario - Versão Desktop">
+<img height="400em" src="./src/design/desktop-design1.png" alt="Projeto Formulario - Versão Desktop">
+<img height="400em" src="./src/design/desktop-design2.png" alt="Projeto Formulario - Versão Desktop">
+<img height="400em" src="./src/design/desktop-design3.png" alt="Projeto Formulario - Versão Desktop">
 
 * Mobile:
-<img height="500em" src="./src/design/mobile-design.png" alt="Projeto Formulario - Versão Mobile">
+<img height="400em" src="./src/design/mobile-design.png" alt="Projeto Formulario - Versão Mobile">
 
 ## Tecnologias utilizadas:
 
