@@ -1,4 +1,4 @@
-# QUEST sobre HTML + CSS + JS INTERMEDIÁRIO | DevQuest🚀
+# QUEST sobre HTML + CSS + JS INTERMEDIÁRIO | DevQuest 🚀
 
 * Um desafio proposto no curso DevQuest sobre um Formulário com validação.
 
