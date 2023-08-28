@@ -14,7 +14,7 @@
 <img height="400em" src="./src/design/desktop-design3.png" alt="Projeto Formulario - Versão Desktop">
 
 * Mobile:
-<img height="400em" src="./src/design/mobile-design.png" alt="Projeto Formulario - Versão Mobile">
+<img height="400em" src="./src/design/mobile-design.png" alt="Projeto Formulario com validação - Versão Mobile">
 
 ## Tecnologias utilizadas:
 
